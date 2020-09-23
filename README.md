@@ -12,11 +12,11 @@ I grew up taking things apart, starting with toys, and later moved on to compute
 
 ### 🌱 My interests are ...
 
-I've always been interested in building new things, hence my interest in ***3D***. I started exploring software development, back in 2016, after finishing high school. I started with Android, and made a couple simple applications. I, however, quickly moved to ***Web Development***, as I found the entry tax to be lower and it was cross-platform. I was hovering a lot, trying to find what my interests actually were. Of late, I figured I'm interested in ***Interactive Multimedia***, and recently started reading a book titled *About Face: The Essentials of Interaction Design"*.
+I've always been interested in building new things, hence my interest in ***3D***. I started exploring software development, back in 2016, after finishing high school. I started with Android, and made a couple simple applications. I, however, quickly moved to ***Web Development***, as I found the entry tax to be lower and it was cross-platform. I was hovering a lot, trying to find what my interests actually were. Of late, I figured I'm interested in ***Interactive Multimedia***, and recently started reading a book titled *"About Face: The Essentials of Interaction Design"*.
 
 ### 🔭 I’m currently ...
 
-I'm building an ***interactive Data Structures Visualizer*** web application, to help learners understand the *represented structures*, *algorithms* (*sorting*, *searching*, *traversal*, etc.), and *operations* (*AVL-tree rotation*, *B-tree insertion/deletion*, etc.). I also have plans to undertake the development of a ***Physics World*** simulating *Dynamics*, to aid high school students.
+I'm building an *interactive* ***Data Structures Visualizer*** web application, to help learners understand the *represented structures*, *algorithms* (*sorting*, *searching*, *traversal*, etc.), and *operations* (*AVL-tree rotation*, *B-tree insertion/deletion*, etc.). I also have plans to undertake the development of a ***Physics World*** simulating *Dynamics*, to aid high school students.
 
 ### 🛠 I use ...
 
