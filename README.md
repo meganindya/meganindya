@@ -12,7 +12,7 @@ I grew up taking things apart, starting with toys, and later moved on to compute
 
 ### 🌱 My interests are ...
 
-I've always been interested in building new things, hence my interest in ***3D***. I started exploring software development, back in 2016, after finishing high school. I started with Android, and made a couple simple applications. I, however, quickly moved to ***Web Development***, as I found the entry tax to be lower and it was cross-platform. I was hovering a lot, trying to find what my interests actually were. Of late, I figured I'm interested in ***Interactive Multimedia***, and recently started reading a book titled *"About Face: The Essentials of Interaction Design"*.
+I've always been interested in building new things, hence my interest in ***3D***. I started exploring software development, back in 2016, after finishing high school. I started with *Android*, and made a couple simple applications. I, however, quickly moved to ***Web Development***, as I found the entry tax to be lower and it was cross-platform. I was hovering a lot, trying to find what my interests actually were. Of late, I figured I'm interested in ***Interactive Multimedia***, and recently started reading a book titled *"About Face: The Essentials of Interaction Design"*.
 
 ### 🔭 I’m currently ...
 
@@ -20,7 +20,7 @@ I'm building an *interactive* ***Data Structures Visualizer*** web application, 
 
 ### 🛠 I use ...
 
-I comfortable programming in `JavaScript` (plus `TypeScript`) and `Java`. I've been exploring ***Creative Coding*** for a while to inspire and educate myself for my venture. I've been using `Processing`, `p5.js`, `matter.js`, and `liquidfun` for some fun experiments.
+I am comfortable programming in `JavaScript` (plus `TypeScript`) and `Java`. I've been exploring ***Creative Coding*** for a while to inspire and educate myself for my venture. I've been using `Processing`, `p5.js`, `matter.js`, and `liquidfun` for some fun experiments.
 
 <!--
 **meganindya/meganindya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
