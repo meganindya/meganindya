@@ -16,7 +16,7 @@ I've always been interested in building new things, hence my interest in ***3D**
 
 ### 🔭 I’m currently ...
 
-I'm building ***Music Blocks 2***, which is based on [*Music Blocks*](https://musicblocks.sugarlabs.org) — a visual programming language used to create music. The goal is to take on the challenges encountered due to the original architecture, and build a more robust and reliable application, from the ground up. I also have plans to undertake the development of a ***Physics World*** simulating *Dynamics*, to aid high school students.
+I'm building [***Music Blocks 2***](https://github.com/sugarlabs/musicblocks-2), which is based on [*Music Blocks*](https://musicblocks.sugarlabs.org) — a visual programming language used to create music. The goal is to take on the challenges encountered due to the original architecture, and build a more robust and reliable application, from the ground up. I also have plans to undertake the development of a ***Physics World*** simulating *Dynamics*, to aid high school students.
 
 ### 🛠 I use ...
 
