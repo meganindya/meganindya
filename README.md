@@ -16,7 +16,7 @@ I'm interested in _**Interactive Multimedia**_, _**Creative Coding**_, and _**Vi
 
 ### 🛠 Skillset
 
-My primary interest is in _**Web Development**_, and I've been writing web stack code since the last 4 years. I particularly love working on the _front-end_. I have good knowledge of `HTML`, `CSS`, and `JavaScript`, with further experience in `React` and some `Angular`. Of late, I prefer using `TypeScript` over `JavaScript`. On the _front-end_, other technologies I've used are `JQuery`, `Bootstrap`, `Webpack`, `Gulp`, `EJS`, `SCSS`, etc. On the _back-end_, I've some experience with `Node` (plus `Express`), and `PHP`. I'm familiar with _REST_ and have experience with `GraphQL.js`.
+My primary interest is in _**Web Development**_, and I've been writing web stack code since the last 4 years. I particularly love working on the _front-end_. I have good knowledge of `HTML`, `CSS`, and `JavaScript`, with further experience in `React` and some `Angular`. Of late, I prefer using `TypeScript` over `JavaScript`. On the _front-end_, other technologies I've used are `JQuery`, `Bootstrap`, `Webpack`, `Gulp`, `EJS`, `SCSS`, etc. On the _back-end_, I've some experience with `Node` (plus `Express`), and `PHP`. I'm familiar with _REST_ and have experience with `GraphQL.js`. I've testing experience with `Jest` and `Mocha`.
 
 ### 🔭 Working on ...
 
