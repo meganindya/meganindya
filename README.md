@@ -24,4 +24,4 @@ I'm building [_**Music Blocks 2**_](https://github.com/sugarlabs/musicblocks-2),
 
 ### 📚 Learning ...
 
-I've started learning the `Rust` programming language and `Web Assembly` paraphernalia. I'm reading a book titled _"The Linux Programming Interface"_ by _Michael Kerrisk_. I want to dive into embedded systems programming soon.
+I've started learning the `Rust` programming language and `Web Assembly` paraphernalia. Lately, I've been inquisitive about architecture of software and systems. I'm reading a book titled _"Linux Kernel Development"_ by _Robert Love_. I want to dive into embedded systems programming soon.
