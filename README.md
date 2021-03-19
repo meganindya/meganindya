@@ -20,7 +20,7 @@ My primary interest is in _**Web Development**_, and I've been writing web stack
 
 ### 🔭 Working on ...
 
-I'm building [_**Music Blocks 2**_](https://github.com/sugarlabs/musicblocks-2), which is based on [_Music Blocks_](https://musicblocks.sugarlabs.org) — a _visual programming language_ used to create music. The goal is to take on the challenges encountered due to the original architecture, and build a more robust and reliable application, from the ground up. I also have plans to undertake the development of a _**Physics World**_ simulating _Dynamics_, to aid high school students.
+I'm building [_**Music Blocks (v4)**_](https://github.com/sugarlabs/musicblocks-v4), which is based on [_Music Blocks_](https://musicblocks.sugarlabs.org) — a _visual programming language_ platform that can be used to create art and music. The goal is to take on the challenges encountered due to the original architecture, and build a more robust and reliable application, from the ground up. I also have plans to undertake the development of a _**Physics World**_ simulating _Dynamics_, to aid high school students.
 
 ### 📚 Learning ...
 
