@@ -4,7 +4,7 @@
 
 ## I'm Anindya
 
-I'm a final year undergraduate pursuing BTech in Information Technology from a public engineering institution in India. I'm 22 years old. I am a tech enthusiast and actively remain on the watch for new tech products. I like _learning about how things work_ and am _fascinated about how computers work_.
+I'm a final year undergraduate pursuing BTech in Information Technology from a public engineering institution in India. I'm 23 years old. I am a tech enthusiast and actively remain on the watch for new tech products. I like _learning about how things work_ and am _fascinated about how computers work_.
 
 ### ⚡ Fun facts
 
