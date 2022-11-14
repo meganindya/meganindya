@@ -1,4 +1,6 @@
-<a href="https://www.linkedin.com/in/meganindya/"><img align="right" src="./res/alias.png" height="164px"/></a>
+<a href="https://www.linkedin.com/in/meganindya/">
+  <img align="right" src="https://github.com/meganindya/meganindya/raw/main/res/alias.png" height="164px"/>
+</a>
 
 # Hi there 👋🏼
 
