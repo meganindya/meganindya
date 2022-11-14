@@ -76,7 +76,7 @@ My primary interest is in full-stack _**Web Development**_, and I've been writin
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Cassandra](https://img.shields.io/badge/-Cassandra-000?&logo=Cassandra)
+![Cassandra](https://img.shields.io/badge/-Cassandra-000?&logo=ApacheCassandra)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
 
