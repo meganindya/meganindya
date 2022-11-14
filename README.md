@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/meganindya/">
+<a href="https://www.linkedin.com/in/meganindya/" target="_blank" style="z-index: 100">
   <img align="right" src="https://github.com/meganindya/meganindya/raw/main/res/alias.png" height="164px"/>
 </a>
 
