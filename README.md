@@ -64,8 +64,9 @@ My primary interest is in full-stack _**Web Development**_, and I've been writin
 
 ##### Web Development
 
-![React](https://img.shields.io/badge/-React%2017-000?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue%203-000?&logo=Vue.js)
+![React](https://img.shields.io/badge/-React%2017-000?&logo=React)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
 ![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
@@ -75,6 +76,7 @@ My primary interest is in full-stack _**Web Development**_, and I've been writin
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-000?&logo=ApacheCassandra)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
@@ -83,5 +85,5 @@ My primary interest is in full-stack _**Web Development**_, and I've been writin
 ##### Testing
 
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Unittest](https://img.shields.io/badge/-unittest-000?&logo=Python)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
+![Unittest](https://img.shields.io/badge/-unittest-000?&logo=Python)
